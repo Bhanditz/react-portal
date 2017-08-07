@@ -1,5 +1,5 @@
 {
-  "name": "@hypnosphi/react-portal",
+  "name": "@jetbrains/react-portal",
   "version": "3.1.0",
   "description": "React component for transportation of modals, lightboxes, loading bars... to document.body",
   "main": "build/portal",
